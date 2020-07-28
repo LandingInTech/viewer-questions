@@ -4,6 +4,10 @@ While making the first episode it was clear that viewers would like to participa
 
 I've decided to create a very basic dashboard that I could trigger questions to be displayed on the Stream. To achieve that this project needs to be run and use `localhost:3000` as a source in OBS.
 
+## Run the project in dev mode
+
+You can run this project in development mode by running the command `yarn dev`
+
 ## Powered By
 
 - [KeystoneJS](https://www.keystonejs.com/)
